@@ -16,7 +16,6 @@ Features:
 Clone the repository:
 ```
 git clone https://github.com/saleena-18/C2C-ClickToCareer-Chatbot.git
-cd your-repo-name
 ```
 ## 2) Install dependencies:
 ```
