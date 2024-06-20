@@ -11,30 +11,30 @@ Features:
 - Leverages Pinecone to store and retrieve vector representations of documents, ensuring fast and accurate search results.
 - Streamlit integration allows for easy interaction and real-time response display.
 
-## 1) Installation
+## Installation
 
 Clone the repository:
 ```
 git clone https://github.com/saleena-18/C2C-ClickToCareer-Chatbot.git
 ```
-## 2) Install dependencies:
+## Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-## 3) Run the Streamlit application:
+## Run the Streamlit application:
 ```
 streamlit run app.py
 ```
 
-## 4) Enter API Keys:
+## Enter API Keys:
 
 Input your HuggingFace API key.
 Input your Pinecone API key.
 
-## 5) Load Data
+## Load Data
 
 Click the "Load data to Pinecone" button to fetch and store data from the website.
 
-## 6) Interact with the Chatbot:
+## Interact with the Chatbot:
 
 Enter your query in the input box to receive relevant information from the vector database.
