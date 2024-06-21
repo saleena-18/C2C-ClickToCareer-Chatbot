@@ -4,7 +4,7 @@
 
 The C2C-ClickToCareer is an AI-powered chatbot assistant designed to help users in career-related queries by fetching and processing data from a website. This uses HuggingFace for creating embeddings and Pinecone for managing a vector database. The application is built using Streamlit for an interactive user interface.
 
-Features
+## Features
 - Efficiently fetches data from website sitemaps using asynchronous loading.
 - Splits large documents into manageable chunks for better processing and searchability.
 - Implements HuggingFace's SentenceTransformer for high-quality text embeddings.
