@@ -16,6 +16,7 @@ The C2C-ClickToCareer is an AI-powered chatbot assistant designed to help users 
 Clone the repository:
 ```
 git clone https://github.com/saleena-18/C2C-ClickToCareer-Chatbot.git
+cd your_folder
 ```
 ## Install dependencies:
 ```
